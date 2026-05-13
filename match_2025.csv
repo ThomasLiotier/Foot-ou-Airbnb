@@ -1,0 +1,234 @@
+game_id,date,home_club_id,away_club_id,home_club_manager_name,away_club_manager_name,stadium,attendance,referee,home_club_name,away_club_name,competition_type
+4635006,2025-08-15,273,244,Habib Beye,Roberto De Zerbi,Roazhon Park,28360.0,Jérémie Pignard,Stade Rennais Football Club,Olympique de Marseille,domestic_league
+4635007,2025-08-16,826,1041,Pierre Sage,Paulo Fonseca,Stade Bollaert-Delelis,38137.0,Romain Lissorgue,Racing Club de Lens,Olympique Lyonnais,domestic_league
+4635008,2025-08-16,417,415,Franck Haise,Carles Martínez,Allianz Riviera,23212.0,Thomas Léonard,Olympique Gymnaste Club Nice Côte d'Azur,Toulouse Football Club,domestic_league
+4635009,2025-08-17,290,1158,Christophe Pélissier,Olivier Pantaloni,Stade de l'Abbé-Deschamps,16090.0,Abdelatif Kherradji,Association de la Jeunesse auxerroise,Football Club Lorient-Bretagne Sud,domestic_league
+4635010,2025-08-17,3911,1082,Éric Roy,Bruno Génésio,Stade Francis-Le Blé,14840.0,Clément Turpin,Stade brestois 29,Lille Olympique Sporting Club,domestic_league
+4635011,2025-08-17,1420,10004,Alexandre Dujeux,Stéphane Gilli,Stade Raymond-Kopa,12168.0,François Letexier,Angers Sporting Club de l'Ouest,Paris Football Club,domestic_league
+4635012,2025-08-17,347,667,Stéphane Le Mignan,Liam Rosenior,Stade Saint-Symphorien,25009.0,Mathieu Vernice,Football Club de Metz,Racing Club de Strasbourg Alsace,domestic_league
+4635013,2025-08-16,162,738,Adi Hütter,Didier Digard,Stade Louis-II,11734.0,Ruddy Buquet,Association sportive de Monaco Football Club,Le Havre Athletic Club,domestic_league
+4635014,2025-08-17,995,583,Luís Castro,Luis Enrique,Stade de la Beaujoire,34053.0,Benoît Bastien,Football Club de Nantes,Paris Saint-Germain Football Club,domestic_league
+4635015,2025-08-23,244,10004,Roberto De Zerbi,Stéphane Gilli,Orange Vélodrome,64074.0,Marc Bollengier,Olympique de Marseille,Paris Football Club,domestic_league
+4635016,2025-08-24,1082,162,Bruno Génésio,Adi Hütter,Decathlon Arena-Stade Pierre-Mauroy,43549.0,Willy Delajod,Lille Olympique Sporting Club,Association sportive de Monaco Football Club,domestic_league
+4635017,2025-08-24,738,826,Didier Digard,Pierre Sage,Stade Océane,19375.0,Guillaume Paradis,Le Havre Athletic Club,Racing Club de Lens,domestic_league
+4635018,2025-08-24,1158,273,Olivier Pantaloni,Habib Beye,Stade du Moustoir,12343.0,Jérôme Brisard,Football Club Lorient-Bretagne Sud,Stade Rennais Football Club,domestic_league
+4635019,2025-08-23,417,290,Franck Haise,Christophe Pélissier,Allianz Riviera,22175.0,Jérémy Stinat,Olympique Gymnaste Club Nice Côte d'Azur,Association de la Jeunesse auxerroise,domestic_league
+4635020,2025-08-24,415,3911,Carles Martínez,Éric Roy,Stadium Municipal,23158.0,Benoît Millot,Toulouse Football Club,Stade brestois 29,domestic_league
+4635021,2025-08-23,1041,347,Paulo Fonseca,Stéphane Le Mignan,Groupama Stadium,49853.0,Eric Wattellier,Olympique Lyonnais,Football Club de Metz,domestic_league
+4635022,2025-08-24,667,995,Liam Rosenior,Luís Castro,Stade de la Meinau,22468.0,Bastien Dechepy,Racing Club de Strasbourg Alsace,Football Club de Nantes,domestic_league
+4635023,2025-08-22,583,1420,Luis Enrique,Alexandre Dujeux,Parc des Princes,47401.0,Hakim Ben El Hadj,Paris Saint-Germain Football Club,Angers Sporting Club de l'Ouest,domestic_league
+4635024,2025-08-30,415,583,Carles Martínez,Luis Enrique,Stadium Municipal,31515.0,Eric Wattellier,Toulouse Football Club,Paris Saint-Germain Football Club,domestic_league
+4635025,2025-08-31,162,667,Adi Hütter,Liam Rosenior,Stade Louis-II,8718.0,Benoît Bastien,Association sportive de Monaco Football Club,Racing Club de Strasbourg Alsace,domestic_league
+4635026,2025-08-29,826,3911,Pierre Sage,Éric Roy,Stade Bollaert-Delelis,37232.0,Abdelatif Kherradji,Racing Club de Lens,Stade brestois 29,domestic_league
+4635027,2025-08-30,995,290,Luís Castro,Christophe Pélissier,Stade de la Beaujoire,28784.0,Stéphanie Frappart,Football Club de Nantes,Association de la Jeunesse auxerroise,domestic_league
+4635028,2025-08-31,1420,273,Alexandre Dujeux,Habib Beye,Stade Raymond-Kopa,11512.0,Marc Bollengier,Angers Sporting Club de l'Ouest,Stade Rennais Football Club,domestic_league
+4635029,2025-08-31,10004,347,Stéphane Gilli,Stéphane Le Mignan,Stade Jean Bouin,17345.0,Gaël Angoula,Paris Football Club,Football Club de Metz,domestic_league
+4635030,2025-08-31,738,417,Didier Digard,Franck Haise,Stade Océane,16513.0,Jérôme Brisard,Le Havre Athletic Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635031,2025-08-30,1158,1082,Olivier Pantaloni,Bruno Génésio,Stade du Moustoir,15512.0,Romain Lissorgue,Football Club Lorient-Bretagne Sud,Lille Olympique Sporting Club,domestic_league
+4635032,2025-08-31,1041,244,Paulo Fonseca,Roberto De Zerbi,Groupama Stadium,52095.0,François Letexier,Olympique Lyonnais,Olympique de Marseille,domestic_league
+4635033,2025-09-12,244,1158,Roberto De Zerbi,Olivier Pantaloni,Orange Vélodrome,64098.0,Thomas Léonard,Olympique de Marseille,Football Club Lorient-Bretagne Sud,domestic_league
+4635034,2025-09-14,583,826,Luis Enrique,Pierre Sage,Parc des Princes,47642.0,Jérémie Pignard,Paris Saint-Germain Football Club,Racing Club de Lens,domestic_league
+4635035,2025-09-13,290,162,Christophe Pélissier,Adi Hütter,Stade de l'Abbé-Deschamps,16703.0,Romain Lissorgue,Association de la Jeunesse auxerroise,Association sportive de Monaco Football Club,domestic_league
+4635036,2025-09-13,417,995,Franck Haise,Luís Castro,Allianz Riviera,20096.0,Guillaume Paradis,Olympique Gymnaste Club Nice Côte d'Azur,Football Club de Nantes,domestic_league
+4635037,2025-09-14,347,1420,Stéphane Le Mignan,Alexandre Dujeux,Stade Saint-Symphorien,21107.0,Benoît Millot,Football Club de Metz,Angers Sporting Club de l'Ouest,domestic_league
+4635038,2025-09-14,3911,10004,Éric Roy,Stéphane Gilli,Stade Francis-Le Blé,14594.0,Bastien Dechepy,Stade brestois 29,Paris Football Club,domestic_league
+4635039,2025-09-14,667,738,Liam Rosenior,Didier Digard,Stade de la Meinau,22250.0,Willy Delajod,Racing Club de Strasbourg Alsace,Le Havre Athletic Club,domestic_league
+4635040,2025-09-14,1082,415,Bruno Génésio,Carles Martínez,Decathlon Arena-Stade Pierre-Mauroy,42576.0,Jérémy Stinat,Lille Olympique Sporting Club,Toulouse Football Club,domestic_league
+4635041,2025-09-14,273,1041,Habib Beye,Paulo Fonseca,Roazhon Park,27392.0,Ruddy Buquet,Stade Rennais Football Club,Olympique Lyonnais,domestic_league
+4635042,2025-09-20,826,1082,Pierre Sage,Bruno Génésio,Stade Bollaert-Delelis,38223.0,Eric Wattellier,Racing Club de Lens,Lille Olympique Sporting Club,domestic_league
+4635043,2025-09-20,995,273,Luís Castro,Habib Beye,Stade de la Beaujoire,31337.0,Mathieu Vernice,Football Club de Nantes,Stade Rennais Football Club,domestic_league
+4635044,2025-09-21,10004,667,Stéphane Gilli,Liam Rosenior,Stade Jean Bouin,17912.0,François Letexier,Paris Football Club,Racing Club de Strasbourg Alsace,domestic_league
+4635045,2025-09-20,3911,417,Éric Roy,Franck Haise,Stade Francis-Le Blé,14158.0,Benoît Bastien,Stade brestois 29,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635046,2025-09-21,290,415,Christophe Pélissier,Carles Martínez,Stade de l'Abbé-Deschamps,15562.0,Marc Bollengier,Association de la Jeunesse auxerroise,Toulouse Football Club,domestic_league
+4635047,2025-09-21,738,1158,Didier Digard,Olivier Pantaloni,Stade Océane,17483.0,Abdelatif Kherradji,Le Havre Athletic Club,Football Club Lorient-Bretagne Sud,domestic_league
+4635048,2025-09-21,162,347,Adi Hütter,Stéphane Le Mignan,Stade Louis-II,6080.0,Stéphanie Frappart,Association sportive de Monaco Football Club,Football Club de Metz,domestic_league
+4635049,2025-09-19,1041,1420,Paulo Fonseca,Alexandre Dujeux,Groupama Stadium,44437.0,Clément Turpin,Olympique Lyonnais,Angers Sporting Club de l'Ouest,domestic_league
+4635050,2025-09-22,244,583,Roberto De Zerbi,Luis Enrique,Orange Vélodrome,66190.0,Jérôme Brisard,Olympique de Marseille,Paris Saint-Germain Football Club,domestic_league
+4635051,2025-09-26,667,244,Liam Rosenior,Roberto De Zerbi,Stade de la Meinau,23262.0,Jérémie Pignard,Racing Club de Strasbourg Alsace,Olympique de Marseille,domestic_league
+4635052,2025-09-28,1420,3911,Alexandre Dujeux,Éric Roy,Stade Raymond-Kopa,10210.0,Willy Delajod,Angers Sporting Club de l'Ouest,Stade brestois 29,domestic_league
+4635053,2025-09-28,273,826,Habib Beye,Pierre Sage,Roazhon Park,26414.0,Bastien Dechepy,Stade Rennais Football Club,Racing Club de Lens,domestic_league
+4635054,2025-09-27,415,995,Carles Martínez,Luís Castro,Stadium Municipal,22824.0,Benoît Millot,Toulouse Football Club,Football Club de Nantes,domestic_league
+4635055,2025-09-28,347,738,Stéphane Le Mignan,Didier Digard,Stade Saint-Symphorien,19976.0,Guillaume Paradis,Football Club de Metz,Le Havre Athletic Club,domestic_league
+4635056,2025-09-28,417,10004,Franck Haise,Stéphane Gilli,Allianz Riviera,20049.0,Abdelatif Kherradji,Olympique Gymnaste Club Nice Côte d'Azur,Paris Football Club,domestic_league
+4635057,2025-09-27,1158,162,Olivier Pantaloni,Adi Hütter,Stade du Moustoir,15561.0,Ruddy Buquet,Football Club Lorient-Bretagne Sud,Association sportive de Monaco Football Club,domestic_league
+4635058,2025-09-28,1082,1041,Bruno Génésio,Paulo Fonseca,Decathlon Arena-Stade Pierre-Mauroy,45287.0,Mathieu Vernice,Lille Olympique Sporting Club,Olympique Lyonnais,domestic_league
+4635059,2025-09-27,583,290,Luis Enrique,Christophe Pélissier,Parc des Princes,47792.0,Thomas Léonard,Paris Saint-Germain Football Club,Association de la Jeunesse auxerroise,domestic_league
+4635060,2025-10-05,162,417,Adi Hütter,Franck Haise,Stade Louis-II,8306.0,Willy Delajod,Association sportive de Monaco Football Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635061,2025-10-04,347,244,Stéphane Le Mignan,Roberto De Zerbi,Stade Saint-Symphorien,28551.0,Clément Turpin,Football Club de Metz,Olympique de Marseille,domestic_league
+4635062,2025-10-05,1041,415,Paulo Fonseca,Carles Martínez,Groupama Stadium,51414.0,Thomas Léonard,Olympique Lyonnais,Toulouse Football Club,domestic_league
+4635063,2025-10-05,738,273,Didier Digard,Habib Beye,Stade Océane,17802.0,Jérémie Pignard,Le Havre Athletic Club,Stade Rennais Football Club,domestic_league
+4635064,2025-10-03,10004,1158,Stéphane Gilli,Olivier Pantaloni,Stade Jean Bouin,18084.0,Benoît Millot,Paris Football Club,Football Club Lorient-Bretagne Sud,domestic_league
+4635065,2025-10-05,667,1420,Liam Rosenior,Alexandre Dujeux,Stade de la Meinau,22171.0,Guillaume Paradis,Racing Club de Strasbourg Alsace,Angers Sporting Club de l'Ouest,domestic_league
+4635066,2025-10-04,3911,995,Éric Roy,Luís Castro,Stade Francis-Le Blé,14941.0,Gaël Angoula,Stade brestois 29,Football Club de Nantes,domestic_league
+4635067,2025-10-04,290,826,Christophe Pélissier,Pierre Sage,Stade de l'Abbé-Deschamps,17243.0,François Letexier,Association de la Jeunesse auxerroise,Racing Club de Lens,domestic_league
+4635068,2025-10-05,1082,583,Bruno Génésio,Luis Enrique,Decathlon Arena-Stade Pierre-Mauroy,47355.0,Benoît Bastien,Lille Olympique Sporting Club,Paris Saint-Germain Football Club,domestic_league
+4635069,2025-10-18,244,738,Roberto De Zerbi,Didier Digard,Orange Vélodrome,64869.0,Bastien Dechepy,Olympique de Marseille,Le Havre Athletic Club,domestic_league
+4635070,2025-10-18,417,1041,Franck Haise,Paulo Fonseca,Allianz Riviera,24122.0,Jérôme Brisard,Olympique Gymnaste Club Nice Côte d'Azur,Olympique Lyonnais,domestic_league
+4635071,2025-10-17,583,667,Luis Enrique,Liam Rosenior,Parc des Princes,47754.0,Clément Turpin,Paris Saint-Germain Football Club,Racing Club de Strasbourg Alsace,domestic_league
+4635072,2025-10-19,415,347,Carles Martínez,Stéphane Le Mignan,Stadium Municipal,26078.0,François Letexier,Toulouse Football Club,Football Club de Metz,domestic_league
+4635073,2025-10-19,826,10004,Pierre Sage,Stéphane Gilli,Stade Bollaert-Delelis,33773.0,Gaël Angoula,Racing Club de Lens,Paris Football Club,domestic_league
+4635074,2025-10-19,1158,3911,Olivier Pantaloni,Éric Roy,Stade du Moustoir,16607.0,Marc Bollengier,Football Club Lorient-Bretagne Sud,Stade brestois 29,domestic_league
+4635075,2025-10-18,1420,162,Alexandre Dujeux,Sébastien Pocognoli,Stade Raymond-Kopa,13404.0,Jérémy Stinat,Angers Sporting Club de l'Ouest,Association sportive de Monaco Football Club,domestic_league
+4635076,2025-10-19,995,1082,Luís Castro,Bruno Génésio,Stade de la Beaujoire,29845.0,Thomas Léonard,Football Club de Nantes,Lille Olympique Sporting Club,domestic_league
+4635077,2025-10-19,273,290,Habib Beye,Christophe Pélissier,Roazhon Park,27148.0,Eric Wattellier,Stade Rennais Football Club,Association de la Jeunesse auxerroise,domestic_league
+4635078,2025-10-26,1041,667,Paulo Fonseca,Liam Rosenior,Groupama Stadium,49058.0,Eric Wattellier,Olympique Lyonnais,Racing Club de Strasbourg Alsace,domestic_league
+4635079,2025-10-26,1420,1158,Alexandre Dujeux,Olivier Pantaloni,Stade Raymond-Kopa,11719.0,Benoît Bastien,Angers Sporting Club de l'Ouest,Football Club Lorient-Bretagne Sud,domestic_league
+4635080,2025-10-25,162,415,Sébastien Pocognoli,Carles Martínez,Stade Louis-II,7086.0,Guillaume Paradis,Association sportive de Monaco Football Club,Toulouse Football Club,domestic_league
+4635081,2025-10-26,273,417,Habib Beye,Franck Haise,Roazhon Park,27658.0,Marc Bollengier,Stade Rennais Football Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635082,2025-10-26,290,738,Christophe Pélissier,Didier Digard,Stade de l'Abbé-Deschamps,16729.0,Hakim Ben El Hadj,Association de la Jeunesse auxerroise,Le Havre Athletic Club,domestic_league
+4635083,2025-10-26,1082,347,Bruno Génésio,Stéphane Le Mignan,Decathlon Arena-Stade Pierre-Mauroy,42089.0,Benoît Millot,Lille Olympique Sporting Club,Football Club de Metz,domestic_league
+4635084,2025-10-24,10004,995,Stéphane Gilli,Luís Castro,Stade Jean Bouin,17522.0,Ruddy Buquet,Paris Football Club,Football Club de Nantes,domestic_league
+4635085,2025-10-25,826,244,Pierre Sage,Roberto De Zerbi,Stade Bollaert-Delelis,38223.0,Stéphanie Frappart,Racing Club de Lens,Olympique de Marseille,domestic_league
+4635086,2025-10-25,3911,583,Éric Roy,Luis Enrique,Stade Francis-Le Blé,14978.0,Jérémie Pignard,Stade brestois 29,Paris Saint-Germain Football Club,domestic_league
+4635087,2025-10-29,244,1420,Roberto De Zerbi,Alexandre Dujeux,Orange Vélodrome,64599.0,Thomas Léonard,Olympique de Marseille,Angers Sporting Club de l'Ouest,domestic_league
+4635088,2025-10-29,1158,583,Olivier Pantaloni,Luis Enrique,Stade du Moustoir,16706.0,Willy Delajod,Football Club Lorient-Bretagne Sud,Paris Saint-Germain Football Club,domestic_league
+4635089,2025-10-29,995,162,Luís Castro,Sébastien Pocognoli,Stade de la Beaujoire,33653.0,Jérôme Brisard,Football Club de Nantes,Association sportive de Monaco Football Club,domestic_league
+4635090,2025-10-29,667,290,Liam Rosenior,Christophe Pélissier,Stade de la Meinau,22667.0,Ruddy Buquet,Racing Club de Strasbourg Alsace,Association de la Jeunesse auxerroise,domestic_league
+4635091,2025-10-29,10004,1041,Stéphane Gilli,Paulo Fonseca,Stade Jean Bouin,18445.0,Jérémy Stinat,Paris Football Club,Olympique Lyonnais,domestic_league
+4635092,2025-10-29,738,3911,Didier Digard,Éric Roy,Stade Océane,18484.0,Benoît Millot,Le Havre Athletic Club,Stade brestois 29,domestic_league
+4635093,2025-10-29,415,273,Carles Martínez,Habib Beye,Stadium Municipal,25514.0,Clément Turpin,Toulouse Football Club,Stade Rennais Football Club,domestic_league
+4635094,2025-10-29,347,826,Stéphane Le Mignan,Pierre Sage,Stade Saint-Symphorien,20618.0,Abdelatif Kherradji,Football Club de Metz,Racing Club de Lens,domestic_league
+4635095,2025-10-29,417,1082,Franck Haise,Bruno Génésio,Allianz Riviera,22441.0,Bastien Dechepy,Olympique Gymnaste Club Nice Côte d'Azur,Lille Olympique Sporting Club,domestic_league
+4635096,2025-11-01,583,417,Luis Enrique,Franck Haise,Parc des Princes,47629.0,François Letexier,Paris Saint-Germain Football Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635097,2025-11-02,415,738,Carles Martínez,Didier Digard,Stadium Municipal,20714.0,Jérémy Stinat,Toulouse Football Club,Le Havre Athletic Club,domestic_league
+4635098,2025-11-02,1082,1420,Bruno Génésio,Alexandre Dujeux,Decathlon Arena-Stade Pierre-Mauroy,38802.0,Jérôme Brisard,Lille Olympique Sporting Club,Angers Sporting Club de l'Ouest,domestic_league
+4635099,2025-11-02,273,667,Habib Beye,Liam Rosenior,Roazhon Park,27658.0,Thomas Léonard,Stade Rennais Football Club,Racing Club de Strasbourg Alsace,domestic_league
+4635100,2025-11-02,826,1158,Pierre Sage,Olivier Pantaloni,Stade Bollaert-Delelis,37373.0,Jérémie Pignard,Racing Club de Lens,Football Club Lorient-Bretagne Sud,domestic_league
+4635101,2025-11-02,3911,1041,Éric Roy,Paulo Fonseca,Stade Francis-Le Blé,14534.0,Clément Turpin,Stade brestois 29,Olympique Lyonnais,domestic_league
+4635102,2025-11-02,995,347,Luís Castro,Stéphane Le Mignan,Stade de la Beaujoire,27150.0,Gaël Angoula,Football Club de Nantes,Football Club de Metz,domestic_league
+4635103,2025-11-01,162,10004,Sébastien Pocognoli,Stéphane Gilli,Stade Louis-II,10727.0,Eric Wattellier,Association sportive de Monaco Football Club,Paris Football Club,domestic_league
+4635104,2025-11-01,290,244,Christophe Pélissier,Roberto De Zerbi,Stade de l'Abbé-Deschamps,16529.0,Benoît Bastien,Association de la Jeunesse auxerroise,Olympique de Marseille,domestic_league
+4635105,2025-11-08,244,3911,Roberto De Zerbi,Éric Roy,Orange Vélodrome,66279.0,Willy Delajod,Olympique de Marseille,Stade brestois 29,domestic_league
+4635106,2025-11-09,1041,583,Paulo Fonseca,Luis Enrique,Groupama Stadium,58257.0,Benoît Bastien,Olympique Lyonnais,Paris Saint-Germain Football Club,domestic_league
+4635107,2025-11-09,347,417,Stéphane Le Mignan,Franck Haise,Stade Saint-Symphorien,20683.0,Stéphanie Frappart,Football Club de Metz,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635108,2025-11-09,1420,290,Alexandre Dujeux,Christophe Pélissier,Stade Raymond-Kopa,11575.0,Abdelatif Kherradji,Angers Sporting Club de l'Ouest,Association de la Jeunesse auxerroise,domestic_league
+4635109,2025-11-08,738,995,Didier Digard,Luís Castro,Stade Océane,19747.0,Romain Lissorgue,Le Havre Athletic Club,Football Club de Nantes,domestic_league
+4635110,2025-11-07,10004,273,Stéphane Gilli,Habib Beye,Stade Jean Bouin,16587.0,Guillaume Paradis,Paris Football Club,Stade Rennais Football Club,domestic_league
+4635111,2025-11-09,1158,415,Olivier Pantaloni,Carles Martínez,Stade du Moustoir,15562.0,Hakim Ben El Hadj,Football Club Lorient-Bretagne Sud,Toulouse Football Club,domestic_league
+4635112,2025-11-08,162,826,Sébastien Pocognoli,Pierre Sage,Stade Louis-II,9456.0,Bastien Dechepy,Association sportive de Monaco Football Club,Racing Club de Lens,domestic_league
+4635113,2025-11-09,667,1082,Liam Rosenior,Bruno Génésio,Stade de la Meinau,31051.0,François Letexier,Racing Club de Strasbourg Alsace,Lille Olympique Sporting Club,domestic_league
+4635114,2025-11-22,826,667,Pierre Sage,Liam Rosenior,Stade Bollaert-Delelis,38211.0,Jérôme Brisard,Racing Club de Lens,Racing Club de Strasbourg Alsace,domestic_league
+4635115,2025-11-22,273,162,Habib Beye,Sébastien Pocognoli,Roazhon Park,27681.0,Hakim Ben El Hadj,Stade Rennais Football Club,Association sportive de Monaco Football Club,domestic_league
+4635116,2025-11-23,995,1158,Luís Castro,Olivier Pantaloni,Stade de la Beaujoire,25967.0,Ruddy Buquet,Football Club de Nantes,Football Club Lorient-Bretagne Sud,domestic_league
+4635117,2025-11-23,415,1420,Carles Martínez,Alexandre Dujeux,Stadium Municipal,19132.0,Marc Bollengier,Toulouse Football Club,Angers Sporting Club de l'Ouest,domestic_league
+4635118,2025-11-23,3911,347,Éric Roy,Stéphane Le Mignan,Stade Francis-Le Blé,13938.0,Gaël Angoula,Stade brestois 29,Football Club de Metz,domestic_league
+4635119,2025-11-23,1082,10004,Bruno Génésio,Stéphane Gilli,Decathlon Arena-Stade Pierre-Mauroy,39053.0,Benoît Millot,Lille Olympique Sporting Club,Paris Football Club,domestic_league
+4635120,2025-11-23,290,1041,Christophe Pélissier,Paulo Fonseca,Stade de l'Abbé-Deschamps,17359.0,Thomas Léonard,Association de la Jeunesse auxerroise,Olympique Lyonnais,domestic_league
+4635121,2025-11-21,417,244,Franck Haise,Roberto De Zerbi,Allianz Riviera,27089.0,Jérémie Pignard,Olympique Gymnaste Club Nice Côte d'Azur,Olympique de Marseille,domestic_league
+4635122,2025-11-22,583,738,Luis Enrique,Didier Digard,Parc des Princes,47694.0,Mathieu Vernice,Paris Saint-Germain Football Club,Le Havre Athletic Club,domestic_league
+4635123,2025-11-30,1041,995,Paulo Fonseca,Luís Castro,Groupama Stadium,46449.0,Abdelatif Kherradji,Olympique Lyonnais,Football Club de Nantes,domestic_league
+4635124,2025-11-29,10004,290,Stéphane Gilli,Christophe Pélissier,Stade Jean Bouin,15007.0,François Letexier,Paris Football Club,Association de la Jeunesse auxerroise,domestic_league
+4635125,2025-11-30,1420,826,Alexandre Dujeux,Pierre Sage,Stade Raymond-Kopa,12979.0,Guillaume Paradis,Angers Sporting Club de l'Ouest,Racing Club de Lens,domestic_league
+4635126,2025-11-30,738,1082,Didier Digard,Bruno Génésio,Stade Océane,20689.0,Willy Delajod,Le Havre Athletic Club,Lille Olympique Sporting Club,domestic_league
+4635127,2025-11-28,347,273,Stéphane Le Mignan,Habib Beye,Stade Saint-Symphorien,20291.0,Jérémy Stinat,Football Club de Metz,Stade Rennais Football Club,domestic_league
+4635128,2025-11-30,667,3911,Liam Rosenior,Éric Roy,Stade de la Meinau,30017.0,Bastien Dechepy,Racing Club de Strasbourg Alsace,Stade brestois 29,domestic_league
+4635129,2025-11-30,1158,417,Olivier Pantaloni,Franck Haise,Stade du Moustoir,15648.0,Romain Lissorgue,Football Club Lorient-Bretagne Sud,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635130,2025-11-29,162,583,Sébastien Pocognoli,Luis Enrique,Stade Louis-II,11546.0,Clément Turpin,Association sportive de Monaco Football Club,Paris Saint-Germain Football Club,domestic_league
+4635131,2025-11-29,244,415,Roberto De Zerbi,Carles Martínez,Orange Vélodrome,65163.0,Eric Wattellier,Olympique de Marseille,Toulouse Football Club,domestic_league
+4635132,2025-12-05,1082,244,Bruno Génésio,Roberto De Zerbi,Decathlon Arena-Stade Pierre-Mauroy,48258.0,Jérôme Brisard,Lille Olympique Sporting Club,Olympique de Marseille,domestic_league
+4635133,2025-12-07,738,10004,Didier Digard,Stéphane Gilli,Stade Océane,17460.0,Ruddy Buquet,Le Havre Athletic Club,Paris Football Club,domestic_league
+4635134,2025-12-07,290,347,Christophe Pélissier,Stéphane Le Mignan,Stade de l'Abbé-Deschamps,15588.0,Eric Wattellier,Association de la Jeunesse auxerroise,Football Club de Metz,domestic_league
+4635135,2025-12-06,995,826,Luís Castro,Pierre Sage,Stade de la Beaujoire,26654.0,Benoît Bastien,Football Club de Nantes,Racing Club de Lens,domestic_league
+4635136,2025-12-07,417,1420,Franck Haise,Alexandre Dujeux,Allianz Riviera,17630.0,Jérémy Stinat,Olympique Gymnaste Club Nice Côte d'Azur,Angers Sporting Club de l'Ouest,domestic_league
+4635137,2025-12-05,3911,162,Éric Roy,Sébastien Pocognoli,Stade Francis-Le Blé,14522.0,Thomas Léonard,Stade brestois 29,Association sportive de Monaco Football Club,domestic_league
+4635138,2025-12-07,1158,1041,Olivier Pantaloni,Paulo Fonseca,Stade du Moustoir,16213.0,Mathieu Vernice,Football Club Lorient-Bretagne Sud,Olympique Lyonnais,domestic_league
+4635139,2025-12-06,415,667,Carles Martínez,Liam Rosenior,Stadium Municipal,22031.0,Stéphanie Frappart,Toulouse Football Club,Racing Club de Strasbourg Alsace,domestic_league
+4635140,2025-12-06,583,273,Luis Enrique,Habib Beye,Parc des Princes,47823.0,Marc Bollengier,Paris Saint-Germain Football Club,Stade Rennais Football Club,domestic_league
+4635141,2025-12-12,1420,995,Alexandre Dujeux,Ahmed Kantari,Stade Raymond-Kopa,14308.0,Stéphanie Frappart,Angers Sporting Club de l'Ouest,Football Club de Nantes,domestic_league
+4635142,2025-12-13,10004,415,Stéphane Gilli,Carles Martínez,Stade Jean Bouin,15822.0,Bastien Dechepy,Paris Football Club,Toulouse Football Club,domestic_league
+4635143,2025-12-14,290,1082,Christophe Pélissier,Bruno Génésio,Stade de l'Abbé-Deschamps,16124.0,Jérémie Pignard,Association de la Jeunesse auxerroise,Lille Olympique Sporting Club,domestic_league
+4635144,2025-12-13,273,3911,Habib Beye,Éric Roy,Roazhon Park,27959.0,Benoît Millot,Stade Rennais Football Club,Stade brestois 29,domestic_league
+4635145,2025-12-14,1041,738,Paulo Fonseca,Didier Digard,Groupama Stadium,42168.0,Marc Bollengier,Olympique Lyonnais,Le Havre Athletic Club,domestic_league
+4635146,2025-12-14,667,1158,Liam Rosenior,Olivier Pantaloni,Stade de la Meinau,29951.0,Gaël Angoula,Racing Club de Strasbourg Alsace,Football Club Lorient-Bretagne Sud,domestic_league
+4635147,2025-12-13,347,583,Stéphane Le Mignan,Luis Enrique,Stade Saint-Symphorien,28500.0,Romain Lissorgue,Football Club de Metz,Paris Saint-Germain Football Club,domestic_league
+4635148,2025-12-14,826,417,Pierre Sage,Franck Haise,Stade Bollaert-Delelis,37278.0,Willy Delajod,Racing Club de Lens,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635149,2025-12-14,244,162,Roberto De Zerbi,Sébastien Pocognoli,Orange Vélodrome,64509.0,François Letexier,Olympique de Marseille,Association sportive de Monaco Football Club,domestic_league
+4635150,2026-01-03,417,667,Claude Puel,Liam Rosenior,Allianz Riviera,18365.0,Clément Turpin,Olympique Gymnaste Club Nice Côte d'Azur,Racing Club de Strasbourg Alsace,domestic_league
+4635151,2026-01-04,583,10004,Luis Enrique,Stéphane Gilli,Parc des Princes,47892.0,Benoît Bastien,Paris Saint-Germain Football Club,Paris Football Club,domestic_league
+4635152,2026-01-03,162,1041,Sébastien Pocognoli,Paulo Fonseca,Stade Louis-II,11828.0,Jérôme Brisard,Association sportive de Monaco Football Club,Olympique Lyonnais,domestic_league
+4635153,2026-01-03,1082,273,Bruno Génésio,Habib Beye,Decathlon Arena-Stade Pierre-Mauroy,41527.0,Eric Wattellier,Lille Olympique Sporting Club,Stade Rennais Football Club,domestic_league
+4635154,2026-01-04,738,1420,Didier Digard,Alexandre Dujeux,Stade Océane,16099.0,Hakim Ben El Hadj,Le Havre Athletic Club,Angers Sporting Club de l'Ouest,domestic_league
+4635155,2026-01-04,1158,347,Olivier Pantaloni,Stéphane Le Mignan,Stade du Moustoir,12602.0,Guillaume Paradis,Football Club Lorient-Bretagne Sud,Football Club de Metz,domestic_league
+4635156,2026-01-04,3911,290,Éric Roy,Christophe Pélissier,Stade Francis-Le Blé,13772.0,Jérémy Stinat,Stade brestois 29,Association de la Jeunesse auxerroise,domestic_league
+4635157,2026-01-02,415,826,Carles Martínez,Pierre Sage,Stadium Municipal,30266.0,Mathieu Vernice,Toulouse Football Club,Racing Club de Lens,domestic_league
+4635158,2026-01-04,244,995,Roberto De Zerbi,Ahmed Kantari,Orange Vélodrome,64780.0,Marc Bollengier,Olympique de Marseille,Football Club de Nantes,domestic_league
+4635159,2026-01-18,273,738,Habib Beye,Didier Digard,Roazhon Park,27650.0,Stéphanie Frappart,Stade Rennais Football Club,Le Havre Athletic Club,domestic_league
+4635160,2026-01-18,667,347,Gary O'Neil,Stéphane Le Mignan,Stade de la Meinau,30612.0,Jérémie Pignard,Racing Club de Strasbourg Alsace,Football Club de Metz,domestic_league
+4635161,2026-01-18,1041,3911,Paulo Fonseca,Éric Roy,Groupama Stadium,46046.0,Romain Lissorgue,Olympique Lyonnais,Stade brestois 29,domestic_league
+4635162,2026-01-17,826,290,Pierre Sage,Christophe Pélissier,Stade Bollaert-Delelis,38083.0,Bastien Dechepy,Racing Club de Lens,Association de la Jeunesse auxerroise,domestic_league
+4635163,2026-01-17,415,417,Carles Martínez,Claude Puel,Stadium Municipal,19514.0,Gaël Angoula,Toulouse Football Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635164,2026-01-18,995,10004,Ahmed Kantari,Stéphane Gilli,Stade de la Beaujoire,24768.0,Benoît Millot,Football Club de Nantes,Paris Football Club,domestic_league
+4635165,2026-01-16,162,1158,Sébastien Pocognoli,Olivier Pantaloni,Stade Louis-II,4810.0,Willy Delajod,Association sportive de Monaco Football Club,Football Club Lorient-Bretagne Sud,domestic_league
+4635166,2026-01-16,583,1082,Luis Enrique,Bruno Génésio,Parc des Princes,46909.0,Jérôme Brisard,Paris Saint-Germain Football Club,Lille Olympique Sporting Club,domestic_league
+4635167,2026-01-17,1420,244,Alexandre Dujeux,Roberto De Zerbi,Stade Raymond-Kopa,15266.0,Ruddy Buquet,Angers Sporting Club de l'Ouest,Olympique de Marseille,domestic_league
+4635168,2026-01-25,1082,667,Bruno Génésio,Gary O'Neil,Decathlon Arena-Stade Pierre-Mauroy,38551.0,Willy Delajod,Lille Olympique Sporting Club,Racing Club de Strasbourg Alsace,domestic_league
+4635169,2026-01-23,290,583,Christophe Pélissier,Luis Enrique,Stade de l'Abbé-Deschamps,17254.0,Mathieu Vernice,Association de la Jeunesse auxerroise,Paris Saint-Germain Football Club,domestic_league
+4635170,2026-01-25,3911,415,Éric Roy,Carles Martínez,Stade Francis-Le Blé,13823.0,Guillaume Paradis,Stade brestois 29,Toulouse Football Club,domestic_league
+4635171,2026-01-25,10004,1420,Stéphane Gilli,Alexandre Dujeux,Stade Jean Bouin,15003.0,Thomas Léonard,Paris Football Club,Angers Sporting Club de l'Ouest,domestic_league
+4635172,2026-01-24,273,1158,Habib Beye,Olivier Pantaloni,Roazhon Park,28659.0,Clément Turpin,Stade Rennais Football Club,Football Club Lorient-Bretagne Sud,domestic_league
+4635173,2026-01-25,347,1041,Benoît Tavenot,Paulo Fonseca,Stade Saint-Symphorien,28244.0,Eric Wattellier,Football Club de Metz,Olympique Lyonnais,domestic_league
+4635174,2026-01-24,738,162,Didier Digard,Sébastien Pocognoli,Stade Océane,19033.0,Marc Bollengier,Le Havre Athletic Club,Association sportive de Monaco Football Club,domestic_league
+4635175,2026-01-25,995,417,Ahmed Kantari,Claude Puel,Stade de la Beaujoire,23112.0,Hakim Ben El Hadj,Football Club de Nantes,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635176,2026-01-24,244,826,Roberto De Zerbi,Pierre Sage,Orange Vélodrome,52673.0,Benoît Bastien,Olympique de Marseille,Racing Club de Lens,domestic_league
+4635177,2026-01-31,10004,244,Stéphane Gilli,Roberto De Zerbi,Stade Jean Bouin,19209.0,Jérémie Pignard,Paris Football Club,Olympique de Marseille,domestic_league
+4635178,2026-02-01,1041,1082,Paulo Fonseca,Bruno Génésio,Groupama Stadium,56150.0,François Letexier,Olympique Lyonnais,Lille Olympique Sporting Club,domestic_league
+4635179,2026-02-01,667,583,Gary O'Neil,Luis Enrique,Stade de la Meinau,31324.0,Eric Wattellier,Racing Club de Strasbourg Alsace,Paris Saint-Germain Football Club,domestic_league
+4635180,2026-02-01,415,290,Carles Martínez,Christophe Pélissier,Stadium Municipal,23704.0,Romain Lissorgue,Toulouse Football Club,Association de la Jeunesse auxerroise,domestic_league
+4635181,2026-01-31,1158,995,Olivier Pantaloni,Ahmed Kantari,Stade du Moustoir,14237.0,Bastien Dechepy,Football Club Lorient-Bretagne Sud,Football Club de Nantes,domestic_league
+4635182,2026-01-31,162,273,Sébastien Pocognoli,Habib Beye,Stade Louis-II,5319.0,Ruddy Buquet,Association sportive de Monaco Football Club,Stade Rennais Football Club,domestic_league
+4635183,2026-01-30,826,738,Pierre Sage,Didier Digard,Stade Bollaert-Delelis,38158.0,Jérémy Stinat,Racing Club de Lens,Le Havre Athletic Club,domestic_league
+4635184,2026-02-01,417,3911,Claude Puel,Éric Roy,Allianz Riviera,18757.0,Stéphanie Frappart,Olympique Gymnaste Club Nice Côte d'Azur,Stade brestois 29,domestic_league
+4635185,2026-02-01,1420,347,Alexandre Dujeux,Benoît Tavenot,Stade Raymond-Kopa,10336.0,Benoît Millot,Angers Sporting Club de l'Ouest,Football Club de Metz,domestic_league
+4635186,2026-02-08,583,244,Luis Enrique,Roberto De Zerbi,Parc des Princes,47926.0,Willy Delajod,Paris Saint-Germain Football Club,Olympique de Marseille,domestic_league
+4635187,2026-02-08,417,162,Claude Puel,Sébastien Pocognoli,Allianz Riviera,24243.0,Benoît Bastien,Olympique Gymnaste Club Nice Côte d'Azur,Association sportive de Monaco Football Club,domestic_league
+4635188,2026-02-07,3911,1158,Éric Roy,Olivier Pantaloni,Stade Francis-Le Blé,14944.0,Gaël Angoula,Stade brestois 29,Football Club Lorient-Bretagne Sud,domestic_league
+4635189,2026-02-08,738,667,Didier Digard,Gary O'Neil,Stade Océane,18014.0,Abdelatif Kherradji,Le Havre Athletic Club,Racing Club de Strasbourg Alsace,domestic_league
+4635190,2026-02-08,290,10004,Christophe Pélissier,Stéphane Gilli,Stade de l'Abbé-Deschamps,15834.0,François Letexier,Association de la Jeunesse auxerroise,Paris Football Club,domestic_league
+4635191,2026-02-07,995,1041,Ahmed Kantari,Paulo Fonseca,Stade de la Beaujoire,30849.0,Mathieu Vernice,Football Club de Nantes,Olympique Lyonnais,domestic_league
+4635192,2026-02-07,826,273,Pierre Sage,Habib Beye,Stade Bollaert-Delelis,38174.0,Jérémie Pignard,Racing Club de Lens,Stade Rennais Football Club,domestic_league
+4635193,2026-02-08,1420,415,Alexandre Dujeux,Carles Martínez,Stade Raymond-Kopa,11237.0,Clément Turpin,Angers Sporting Club de l'Ouest,Toulouse Football Club,domestic_league
+4635194,2026-02-06,347,1082,Benoît Tavenot,Bruno Génésio,Stade Saint-Symphorien,20378.0,Guillaume Paradis,Football Club de Metz,Lille Olympique Sporting Club,domestic_league
+4635195,2026-02-15,1041,417,Paulo Fonseca,Claude Puel,Groupama Stadium,48618.0,Thomas Léonard,Olympique Lyonnais,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635196,2026-02-14,244,667,Jacques Abardonado,Gary O'Neil,Orange Vélodrome,59238.0,François Letexier,Olympique de Marseille,Racing Club de Strasbourg Alsace,domestic_league
+4635197,2026-02-14,1082,3911,Bruno Génésio,Éric Roy,Decathlon Arena-Stade Pierre-Mauroy,44145.0,Hakim Ben El Hadj,Lille Olympique Sporting Club,Stade brestois 29,domestic_league
+4635198,2026-02-15,738,415,Didier Digard,Carles Martínez,Stade Océane,18345.0,Jérôme Brisard,Le Havre Athletic Club,Toulouse Football Club,domestic_league
+4635199,2026-02-15,347,290,Benoît Tavenot,Christophe Pélissier,Stade Saint-Symphorien,22931.0,Marc Bollengier,Football Club de Metz,Association de la Jeunesse auxerroise,domestic_league
+4635200,2026-02-15,1158,1420,Olivier Pantaloni,Alexandre Dujeux,Stade du Moustoir,13720.0,Stéphanie Frappart,Football Club Lorient-Bretagne Sud,Angers Sporting Club de l'Ouest,domestic_league
+4635201,2026-02-13,162,995,Sébastien Pocognoli,Ahmed Kantari,Stade Louis-II,5237.0,Eric Wattellier,Association sportive de Monaco Football Club,Football Club de Nantes,domestic_league
+4635202,2026-02-14,10004,826,Stéphane Gilli,Pierre Sage,Stade Jean Bouin,17536.0,Bastien Dechepy,Paris Football Club,Racing Club de Lens,domestic_league
+4635203,2026-02-13,273,583,Sébastien Tambouret,Luis Enrique,Roazhon Park,28545.0,Benoît Bastien,Stade Rennais Football Club,Paris Saint-Germain Football Club,domestic_league
+4635204,2026-02-22,667,1041,Gary O'Neil,Paulo Fonseca,Stade de la Meinau,29000.0,Ruddy Buquet,Racing Club de Strasbourg Alsace,Olympique Lyonnais,domestic_league
+4635205,2026-02-21,826,162,Pierre Sage,Sébastien Pocognoli,Stade Bollaert-Delelis,37727.0,Willy Delajod,Racing Club de Lens,Association sportive de Monaco Football Club,domestic_league
+4635206,2026-02-21,583,347,Luis Enrique,Benoît Tavenot,Parc des Princes,46841.0,Abdelatif Kherradji,Paris Saint-Germain Football Club,Football Club de Metz,domestic_league
+4635207,2026-02-20,3911,244,Éric Roy,Habib Beye,Stade Francis-Le Blé,13642.0,Romain Lissorgue,Stade brestois 29,Olympique de Marseille,domestic_league
+4635208,2026-02-22,417,1158,Claude Puel,Olivier Pantaloni,Allianz Riviera,18083.0,Jérémy Stinat,Olympique Gymnaste Club Nice Côte d'Azur,Football Club Lorient-Bretagne Sud,domestic_league
+4635209,2026-02-22,995,738,Ahmed Kantari,Didier Digard,Stade de la Beaujoire,23341.0,Jérémie Pignard,Football Club de Nantes,Le Havre Athletic Club,domestic_league
+4635210,2026-02-21,415,10004,Carles Martínez,Stéphane Gilli,Stadium Municipal,23228.0,Benoît Millot,Toulouse Football Club,Paris Football Club,domestic_league
+4635211,2026-02-22,1420,1082,Alexandre Dujeux,Bruno Génésio,Stade Raymond-Kopa,,Mathieu Vernice,Angers Sporting Club de l'Ouest,Lille Olympique Sporting Club,domestic_league
+4635212,2026-02-22,290,273,Christophe Pélissier,Franck Haise,Stade de l'Abbé-Deschamps,15894.0,Gaël Angoula,Association de la Jeunesse auxerroise,Stade Rennais Football Club,domestic_league
+4635213,2026-02-28,738,583,Didier Digard,Luis Enrique,Stade Océane,23569.0,Marc Bollengier,Le Havre Athletic Club,Paris Saint-Germain Football Club,domestic_league
+4635214,2026-02-28,273,415,Franck Haise,Carles Martínez,Roazhon Park,28060.0,Stéphanie Frappart,Stade Rennais Football Club,Toulouse Football Club,domestic_league
+4635215,2026-02-28,162,1420,Sébastien Pocognoli,Alexandre Dujeux,Stade Louis-II,5186.0,Guillaume Paradis,Association sportive de Monaco Football Club,Angers Sporting Club de l'Ouest,domestic_league
+4635216,2026-03-01,1158,290,Olivier Pantaloni,Christophe Pélissier,Stade du Moustoir,16071.0,Ruddy Buquet,Football Club Lorient-Bretagne Sud,Association de la Jeunesse auxerroise,domestic_league
+4635217,2026-03-01,347,3911,Benoît Tavenot,Éric Roy,Stade Saint-Symphorien,19705.0,Jérémy Stinat,Football Club de Metz,Stade brestois 29,domestic_league
+4635218,2026-03-01,1082,995,Bruno Génésio,Ahmed Kantari,Decathlon Arena-Stade Pierre-Mauroy,39161.0,Thomas Léonard,Lille Olympique Sporting Club,Football Club de Nantes,domestic_league
+4635219,2026-03-01,10004,417,Antoine Kombouaré,Claude Puel,Stade Jean Bouin,13642.0,Hakim Ben El Hadj,Paris Football Club,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635220,2026-02-27,667,826,Gary O'Neil,Pierre Sage,Stade de la Meinau,29000.0,Clément Turpin,Racing Club de Strasbourg Alsace,Racing Club de Lens,domestic_league
+4635221,2026-03-01,244,1041,Habib Beye,Paulo Fonseca,Orange Vélodrome,66225.0,Jérôme Brisard,Olympique de Marseille,Olympique Lyonnais,domestic_league
+4635222,2026-03-07,415,244,Carles Martínez,Habib Beye,Stadium Municipal,31788.0,Bastien Dechepy,Toulouse Football Club,Olympique de Marseille,domestic_league
+4635223,2026-03-08,3911,738,Éric Roy,Didier Digard,Stade Francis-Le Blé,14601.0,Benoît Bastien,Stade brestois 29,Le Havre Athletic Club,domestic_league
+4635224,2026-03-08,417,273,Claude Puel,Franck Haise,Allianz Riviera,21134.0,Romain Lissorgue,Olympique Gymnaste Club Nice Côte d'Azur,Stade Rennais Football Club,domestic_league
+4635225,2026-03-08,1041,10004,Paulo Fonseca,Antoine Kombouaré,Groupama Stadium,42148.0,Eric Wattellier,Olympique Lyonnais,Paris Football Club,domestic_league
+4635226,2026-03-08,826,347,Pierre Sage,Benoît Tavenot,Stade Bollaert-Delelis,37381.0,Mathieu Vernice,Racing Club de Lens,Football Club de Metz,domestic_league
+4635227,2026-03-08,1082,1158,Bruno Génésio,Olivier Pantaloni,Decathlon Arena-Stade Pierre-Mauroy,42082.0,Abdelatif Kherradji,Lille Olympique Sporting Club,Football Club Lorient-Bretagne Sud,domestic_league
+4635228,2026-03-07,290,667,Christophe Pélissier,Gary O'Neil,Stade de l'Abbé-Deschamps,16237.0,Jérémie Pignard,Association de la Jeunesse auxerroise,Racing Club de Strasbourg Alsace,domestic_league
+4635229,2026-03-07,995,1420,Ahmed Kantari,Alexandre Dujeux,Stade de la Beaujoire,25142.0,Willy Delajod,Football Club de Nantes,Angers Sporting Club de l'Ouest,domestic_league
+4635230,2026-03-06,583,162,Luis Enrique,Sébastien Pocognoli,Parc des Princes,46806.0,Ruddy Buquet,Paris Saint-Germain Football Club,Association sportive de Monaco Football Club,domestic_league
+4635232,2026-03-14,1158,826,Olivier Pantaloni,Pierre Sage,Stade du Moustoir,15942.0,Thomas Léonard,Football Club Lorient-Bretagne Sud,Racing Club de Lens,domestic_league
+4635233,2026-03-15,738,1041,Didier Digard,Paulo Fonseca,Stade Océane,22264.0,Jérémy Stinat,Le Havre Athletic Club,Olympique Lyonnais,domestic_league
+4635234,2026-03-15,667,10004,Gary O'Neil,Antoine Kombouaré,Stade de la Meinau,29865.0,Benoît Millot,Racing Club de Strasbourg Alsace,Paris Football Club,domestic_league
+4635235,2026-03-15,347,415,Benoît Tavenot,Carles Martínez,Stade Saint-Symphorien,19760.0,Gaël Angoula,Football Club de Metz,Toulouse Football Club,domestic_league
+4635236,2026-03-15,273,1082,Franck Haise,Bruno Génésio,Roazhon Park,28219.0,Jérôme Brisard,Stade Rennais Football Club,Lille Olympique Sporting Club,domestic_league
+4635237,2026-03-14,1420,417,Alexandre Dujeux,Claude Puel,Stade Raymond-Kopa,12709.0,François Letexier,Angers Sporting Club de l'Ouest,Olympique Gymnaste Club Nice Côte d'Azur,domestic_league
+4635238,2026-03-14,162,3911,Sébastien Pocognoli,Éric Roy,Stade Louis-II,5288.0,Jérémie Pignard,Association sportive de Monaco Football Club,Stade brestois 29,domestic_league
+4635239,2026-03-13,244,290,Habib Beye,Christophe Pélissier,Orange Vélodrome,55766.0,Marc Bollengier,Olympique de Marseille,Association de la Jeunesse auxerroise,domestic_league
